@@ -1,6 +1,1 @@
-{
-  "/page": "app/page.js",
-  "/templates/page": "app/templates/page.js",
-  "/builder-split/page": "app/builder-split/page.js",
-  "/login/page": "app/login/page.js"
-}
+{}
