@@ -30,7 +30,7 @@ It has 3 versions currently
 - Configure Nginx for serving the application.
 - Deploy to a cloud provider like AWS or Heroku.
 
-## Contribution Guidelines
-- Follow the coding standards outlined in the `CONTRIBUTING.md` file.
-- Write tests for new features and bug fixes.
-- Submit pull requests for review. 
+## Guidelines
+Copyright (c) 2025 Dhruv Singh.  
+All rights reserved.  
+Unauthorized use, modification, and distribution of this code are strictly prohibited.
