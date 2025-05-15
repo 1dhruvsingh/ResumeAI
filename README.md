@@ -25,11 +25,6 @@ It has 3 versions currently
 ## API Documentation
 - `/api/resumes/`: Endpoint for uploading and processing resumes.
 
-## Deployment Guide
-- Use Docker for containerization.
-- Configure Nginx for serving the application.
-- Deploy to a cloud provider like AWS or Heroku.
-
 ## Contribution Guidelines
 - Follow the coding standards outlined in the `CONTRIBUTING.md` file.
 - Write tests for new features and bug fixes.
